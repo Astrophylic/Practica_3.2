@@ -1,11 +1,9 @@
 <center> 
   <strong> COMPONENTE FUTURO </strong>
 </center>
-
 <br>
-
 <center> <strong> Creación de un componente customizado para un futuro. </strong></center>
-
+<br>
 **1. ¿Qué tipo de componente he creado?**
 
 **2. ¿Cómo funciona este componente?**
@@ -13,6 +11,7 @@
 **3. Incorporar el componente en nuestro proyecto.**
 
 **4. Bibliotecas y recursos utilizados en el componente.**
+<br>
 
 **1.¿Qué tipo de componente he creado?**
 
