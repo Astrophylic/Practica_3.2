@@ -1,4 +1,4 @@
-#COMPONENTE FUTURO 
+# COMPONENTE FUTURO 
 
 Creación de un componente customizado para un futuro.
 1. ¿Qué tipo de componente he creado?	
