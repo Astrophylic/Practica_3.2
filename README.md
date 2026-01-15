@@ -1,4 +1,5 @@
 <center> # COMPONENTE FUTURO </center>
+
 <center> ## Creación de un componente customizado para un futuro. </center>
 
 **1. ¿Qué tipo de componente he creado?**
